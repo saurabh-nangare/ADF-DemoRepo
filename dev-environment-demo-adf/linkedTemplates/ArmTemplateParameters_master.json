@@ -5,6 +5,12 @@
 		"factoryName": {
 			"value": "dev-environment-demo-adf"
 		},
+		"LS_DEV_ENVIRONMENT_ADLS_accountKey": {
+			"value": ""
+		},
+		"LS_DEV_ENVIRONMENT_ADLS_properties_typeProperties_url": {
+			"value": "https://devenvironmentadls.dfs.core.windows.net/"
+		},
 		"containerUri": {
 			"value": ""
 		},
